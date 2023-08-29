@@ -1,0 +1,21 @@
+Passcode$Name$Status$Attribute$type$link$link_arrows$rank$pendulum_scale$level$attack$defense$spell_attribute$summoning_condition$pendulum_condition$card_text$card_supports$card_anti_supports$card_actions$effect_types$
+81843628$Needle Worm$Unlimited$EARTH$[Insect/Effect]$$$$$2$750$600$$$$FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.$$$Sends from your opponent's Deck to your opponent's Graveyard$Flip$
+42364257$Anti Raigeki$Unlimited$TRAP$$$$$$$$$$$$When your opponent activates "Raigeki": Negate its effect, and if you do, destroy all monsters your opponent controls.$$Raigeki$$Activation requirement/Effect$
+07359741$Mechanicalchaser$Unlimited$DARK$[Machine/Normal]$$$$$4$1850$800$$$$A hunter that relentlessly pursues its target by order of the Machine King.$$$$$
+$Black Skull Dragon (Updated from: B. Skull Dragon)$$DARK$[Dragon/Fusion]$$$$$9$3200$2500$$$$"Summoned Skull" + "Red-Eyes Black Dragon"$$$$$
+98069388$Horn of Heaven$Unlimited$TRAP$$$$$$$$$Counter$$$When a monster(s) would be Summoned: Tribute 1 monster; negate the Summon, and if you do, destroy that monster(s).$$$Tributes for cost$Activation requirement/Cost/Effect$
+48305365$Axe Raider$Unlimited$EARTH$[Warrior/Normal]$$$$$4$1700$1150$$$$An axe-wielding monster of tremendous strength and agility.$$$$$
+95144193$Kwagar Hercules$Unlimited$EARTH$[Insect/Fusion]$$$$$6$1900$1700$$$$"Kuwagata α" + "Hercules Beetle"$$$$$
+76775123$Patrol Robo$Unlimited$EARTH$[Machine/Effect]$$$$$3$1100$900$$$$During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.$$$Reveals face-down cards$Trigger$
+43487744$White Hole$Unlimited$TRAP$$$$$$$$$$$$When your opponent activates "Dark Hole": Monsters you control cannot be destroyed by that "Dark Hole's" effect.$$Dark Hole$$Activation requirement/Effect$
+50045299$Dragon Capture Jar$Unlimited$TRAP$$$$$$$$$Continuous$$$Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.$$Dragon$Changes battle positions/Prevents Battle Position changes$Continuous-like$
+11868825$Goblin's Secret Remedy$Unlimited$SPELL$$$$$$$$$$$$Increase your Life Points by 600 points.$$$$Effect$
+73134081$Final Flame$Unlimited$SPELL$$$$$$$$$$$$Inflict 600 points of damage to your opponent's Life Points.$$$$Effect$
+80770678$Spirit of the Harp$Unlimited$LIGHT$[Fairy/Normal]$$$$$4$800$2000$$$$A spirit that soothes the soul with the music of its heavenly harp.$$$$$
+55144522$Pot of Greed$Forbidden(OCG)$SPELL$$$$$$$$$$$$Draw 2 cards.$$$You draw cards$Effect$
+54541900$Karbonala Warrior$Unlimited$EARTH$[Warrior/Fusion]$$$$$4$1500$1200$$$$"M-Warrior #1" + "M-Warrior #2"$$$$$
+17881964$Darkfire Dragon$Unlimited$DARK$[Dragon/Fusion]$$$$$4$1500$1250$$$$"Firegrass" + "Petit Dragon"$$$$$
+90219263$Elegant Egotist$Unlimited$SPELL$$$$$$$$$$$$If "Harpie Lady" is on the field: Special Summon 1 "Harpie Lady" or "Harpie Lady Sisters" from your hand or Deck.$Harpie Lady/Harpie Lady Sisters$$$Activation requirement/Effect$
+21417692$Dark Elf$Unlimited$DARK$[Spellcaster/Effect]$$$$$4$2000$800$$$$This card requires a cost of 1000 of your own Life Points to attack.$$$$Continuous$
+68658728$Little Chimera$Unlimited$FIRE$[Beast/Effect]$$$$$2$600$550$$$$All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.$FIRE$WATER$$Continuous$
+28470714$Bladefly$Unlimited$WIND$[Insect/Effect]$$$$$2$600$700$$$$As long as this card remains face-up on the field, increase the ATK of all WIND monsters by 500 points and decrease the ATK of all EARTH monsters by 400 points.$WIND$EARTH$$Continuous$
